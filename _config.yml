@@ -1,3 +1,4 @@
+theme: jekyll-theme-hacker
 #
 # This file contains configuration flags to customize your site
 #
@@ -87,5 +88,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-remote_theme: pages-themes/hacker
