@@ -49,4 +49,19 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
+### Install Docker Compose
+_Curl the binary into the usr/lib/bin_
+
+```bash
+sudo curl -L https://github.com/docker/compose/releases/download/1.19.0/docker-compose-uname -s-uname -m -o /usr/local/bin/docker-compose
+```
+_Mod the binary to executable_
+```bash
+sudo chmod +x /usr/local/bin/docker-compose
+```
+_Add user to the docker group_
+```bash
+sudo groupadd docker
+sudo gpasswd -a $USER docker
+```
 
