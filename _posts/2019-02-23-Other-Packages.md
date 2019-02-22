@@ -26,3 +26,4 @@ _I compile exa from source because it's pretty easy and they do not have a .deb 
 git clone https://github.com/ogham/exa.git
 cd exa
 sudo make install
+```
