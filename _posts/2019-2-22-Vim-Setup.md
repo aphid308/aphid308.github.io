@@ -1,0 +1,37 @@
+---
+layout: post
+title: My Vim Setup 
+---
+
+# 1. Install Vim
+### Remove pre-installed Vim
+```bash
+sudo apt-get purge vim
+sudo apt-get remove vim
+```
+### Install vim-nox and dependencies for vim plugins
+```bash
+sudo apt-get install -y vim-nox \
+                        ruby ruby-dev \
+                        python-dev python3-dev \
+                        build-essential make
+```
+### Install Vundle plugin manager
+```bash
+git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+### Install Vim Plugins
+```bash
+vim +PluginInstall +qall
+```
+### Setup Command-T
+```bash
+cd ~/.vim/bundle/command-t/ruby/command-t/ext/command-t
+ruby extconf.rb
+make
+```
+### Compile YCM
+```bash
+cd ~/.vim/bundle/YouCompleteMe
+YCM_CORES=1 ./install.py --clang-completer
+```
