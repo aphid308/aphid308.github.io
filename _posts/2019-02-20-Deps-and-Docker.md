@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: Installing Dependencies, Docker CE, and Docker Compose
---
+---
 
 ### Install Dependencies
 ```bash
