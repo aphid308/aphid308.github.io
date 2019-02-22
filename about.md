@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+[REDACTED] is an IT consultant for a small consulting firm in [REDACTED]. 
+They enjoy dabbling in computer programming, radical leftism, data science and The Immortal Science of Marxist Leninism. 
+Technical profiency in: Python, Labor Analysis, Django, Class Warfare
 
-### More Information
+### Contact
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[radioknife@protonmail.com](mailto:radioknife@protonmail.com)
