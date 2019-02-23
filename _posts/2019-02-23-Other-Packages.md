@@ -27,3 +27,5 @@ git clone https://github.com/ogham/exa.git
 cd exa
 sudo make install
 ```
+#### Exa in action
+<script id="asciicast-229426" src="https://asciinema.org/a/229426.js" async></script>
