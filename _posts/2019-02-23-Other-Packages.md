@@ -27,5 +27,4 @@ git clone https://github.com/ogham/exa.git
 cd exa
 sudo make install
 ```
-#### Exa in action
-<img src="https://thumbs.gfycat.com/ClumsyKnobbyIaerismetalmark-size_restricted.gif" />
+
