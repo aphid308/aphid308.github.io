@@ -3,7 +3,7 @@ layout: post
 title: Installing Dependencies, Docker CE, and Docker Compose
 ---
 
-### Install Dependencies
+#### Install Dependencies
 ```bash
 sudo apt-get install -y tmux virtualenv \
                         virtualenvwrapper python3-pip \
@@ -12,7 +12,7 @@ sudo apt-get install -y tmux virtualenv \
                         postgresql
 ```
 
-### Install Docker CE
+#### Install Docker CE
 _Remove any old versions_
 
 ```bash
@@ -49,7 +49,7 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
-### Install Docker Compose
+#### Install Docker Compose
 _Curl the binary into the usr/lib/bin_
 
 ```bash
