@@ -28,5 +28,4 @@ cd exa
 sudo make install
 ```
 #### Exa in action
-<script id="asciicast-229426" src="https://asciinema.org/a/229426.js" async></script>
-<iframe src='https://gfycat.com/ifr/UntimelyDeliciousIriomotecat' frameborder='0' scrolling='no' allowfullscreen width='640' height='489'></iframe>
+<img src="https://thumbs.gfycat.com/ClumsyKnobbyIaerismetalmark-size_restricted.gif" />
