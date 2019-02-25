@@ -8,7 +8,8 @@ name: Labor Theory
 # Short bio or description (displayed in the header)
 description: Computer Programming and Maoist Thirld-Worldism
 
-theme: jekyll-theme-cayman
+plugin:
+ - jekyll-theme-hacker
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 avatar: https://aphid308.github.io/images/form.png
